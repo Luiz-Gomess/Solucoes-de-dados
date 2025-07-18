@@ -1,0 +1,5 @@
+Username,Name,Email,Profile Visibility,User Type,Role,Last Login Date,Date Created,Add-On Apps,"# of Items Owned","# of Groups Owned","# of Groups Total",Login Type
+pessoaficticia1,Pessoa Ficticia1,pessoa.ficticia1@email.com,public,viewerUT,Viewer,Mon Dec 25 00:00:00 UTC 2024,Mon Jan 11 10:51:42 UTC 2025,,0,0,0,arcgis
+pessoaficticia2,Pessoa Ficticia2,pessoa.ficticia2@email.com,public,creatorUT,account_publisher,Mon Dec 25 00:00:00 UTC 2024,Mon Jan 11 10:51:42 UTC 2025,,0,0,0,arcgis
+pessoaficticia3,Pessoa Ficticia3,pessoa.ficticia3@email.com,public,creatorUT,account_admin,Mon Dec 25 00:00:00 UTC 2024,Mon Jan 11 10:51:42 UTC 2025,,0,0,0,arcgis
+pessoaficticia4,Pessoa Ficticia4,pessoa.ficticia4@email.com,public,creatorUT,Data Editor,Mon Dec 25 00:00:00 UTC 2024,Mon Jan 11 10:51:42 UTC 2025,,0,0,0,arcgis
