@@ -52,4 +52,3 @@ O script envia **dois e-mails separados** para cada destinatário da lista:
 * **Remoção de Arquivo:** Após o envio dos e-mails, o arquivo `analitico_regionais.tar.xz` é removido do disco para liberar espaço.
 * **Tratamento de Erros:** Todo o processo é envolvido em um bloco `try...except...finally` para capturar e registrar exceções, garantindo que o script sempre registre uma mensagem de "Fim de execução" no log, independentemente de ter ocorrido um erro ou não.
 
-![foto do perfil](https://lh3.googleusercontent.com/a/ACg8ocJjRqIPKZcF1SuuofhdGfTMY17WFqti3kAu9aTqMwyprYNqKjM=s64-c-mo)
