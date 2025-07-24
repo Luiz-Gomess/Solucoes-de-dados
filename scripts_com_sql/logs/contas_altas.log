@@ -1,0 +1,11 @@
+ 23/07/2025 07:31:01 - INFO - Iniciando contas_altas.py
+23/07/2025 07:31:02 - INFO - Conexão com o banco estabelecida.
+23/07/2025 07:31:02 - INFO - Iniciando consulta
+23/07/2025 07:31:13 - SUCCESS - Consulta realizada com sucesso.
+23/07/2025 07:31:14 - SUCCESS - 'Contas Altas 23.07.2025.xlsx' criado com sucesso!
+23/07/2025 07:31:18 - INFO - Email enviado para: eg1*********email.com
+23/07/2025 07:31:23 - INFO - Email enviado para: eg2*********email.com
+23/07/2025 07:31:28 - INFO - Email enviado para: eg3*********email.com
+23/07/2025 07:31:32 - INFO - Email enviado para: eg4*********email.com
+23/07/2025 07:31:32 - INFO - contas_altas.py finalizado. 
+

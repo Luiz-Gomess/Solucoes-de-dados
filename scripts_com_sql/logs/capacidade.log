@@ -1,0 +1,8 @@
+01/07/2025 07:00:02 - INFO - Iniciando capacidade_hidrometro.py
+01/07/2025 07:00:02 - INFO - Conexão com o banco estabelecida.
+01/07/2025 07:00:02 - INFO - Iniciando consulta
+01/07/2025 07:00:14 - SUCCESS - Consulta realizada com sucesso.
+01/07/2025 07:00:14 - SUCCESS - 'hidrometros_capacidade.csv' criado com sucesso!
+01/07/2025 07:00:29 - INFO - Email enviado para: eg1*********email.com
+01/07/2025 07:00:29 - INFO - capacidade_hidrometro.py finalizado. 
+

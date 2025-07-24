@@ -1,0 +1,26 @@
+ 21/07/2025 07:25:02 - INFO - Iniciando analitico_hidrometro.py
+21/07/2025 07:25:02 - INFO - Conexão com o banco estabelecida.
+21/07/2025 07:25:02 - INFO - Iniciando consulta
+21/07/2025 07:25:53 - SUCCESS - Consulta realizada com sucesso.
+21/07/2025 07:25:57 - SUCCESS - 'analitico_hidrometros_LITORAL.csv' criado com sucesso!
+21/07/2025 07:26:39 - INFO - Iniciando consulta
+21/07/2025 07:26:58 - SUCCESS - Consulta realizada com sucesso.
+21/07/2025 07:27:02 - SUCCESS - 'analitico_hidrometros_BORBOREMA.csv' criado com sucesso!
+21/07/2025 07:27:02 - INFO - Iniciando consulta
+21/07/2025 07:27:12 - SUCCESS - Consulta realizada com sucesso.
+21/07/2025 07:27:13 - SUCCESS - 'analitico_hidrometros_BREJO.csv' criado com sucesso!
+21/07/2025 07:27:13 - INFO - Iniciando consulta
+21/07/2025 07:27:23 - SUCCESS - Consulta realizada com sucesso.
+21/07/2025 07:27:24 - SUCCESS - 'analitico_hidrometros_ESPINHARAS.csv' criado com sucesso!
+21/07/2025 07:27:24 - INFO - Iniciando consulta
+21/07/2025 07:27:32 - SUCCESS - Consulta realizada com sucesso.
+21/07/2025 07:27:33 - SUCCESS - 'analitico_hidrometros_RIO DO PEIXE.csv' criado com sucesso!
+21/07/2025 07:27:33 - INFO - Iniciando consulta
+21/07/2025 07:27:39 - SUCCESS - Consulta realizada com sucesso.
+21/07/2025 07:27:40 - SUCCESS - 'analitico_hidrometros_ALTO PIRANHAS.csv' criado com sucesso!
+21/07/2025 07:29:46 - INFO - Email enviado para: eg1*********email.com
+21/07/2025 07:31:16 - INFO - Email enviado para: eg1*********email.com
+21/07/2025 07:32:14 - INFO - Email enviado para: eg2*********email.com
+21/07/2025 07:33:44 - INFO - Email enviado para: eg2*********email.com
+21/07/2025 07:33:44 - INFO - analitico_hidrometro.py finalizado. 
+

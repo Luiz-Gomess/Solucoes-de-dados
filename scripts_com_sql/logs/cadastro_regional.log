@@ -1,0 +1,26 @@
+23/05/2025 17:00:37 - INFO - Iniciando cadastro_regional.py
+23/05/2025 17:00:37 - INFO - Conexão com o banco estabelecida.
+23/05/2025 17:00:37 - INFO - Iniciando consulta
+23/05/2025 17:00:39 - SUCCESS - Consulta realizada com sucesso.
+23/05/2025 17:00:39 - SUCCESS - 'Regional_LITORAL_SEXTA.csv' criado com sucesso!
+23/05/2025 17:00:43 - INFO - Email enviado para: eg1*********email.com
+23/05/2025 17:00:43 - INFO - Iniciando consulta
+23/05/2025 17:00:44 - SUCCESS - Consulta realizada com sucesso.
+23/05/2025 17:00:44 - SUCCESS - 'Regional_BORBOREMA_SEXTA.csv' criado com sucesso!
+23/05/2025 17:00:47 - INFO - Email enviado para: eg2*********email.com
+23/05/2025 17:00:47 - INFO - Iniciando consulta
+23/05/2025 17:00:47 - SUCCESS - Consulta realizada com sucesso.
+23/05/2025 17:00:47 - SUCCESS - 'Regional_BREJO_SEXTA.csv' criado com sucesso!
+23/05/2025 17:00:51 - INFO - Email enviado para: eg3*********email.com
+23/05/2025 17:00:51 - INFO - Iniciando consulta
+23/05/2025 17:00:51 - SUCCESS - Consulta realizada com sucesso.
+23/05/2025 17:00:51 - SUCCESS - 'Regional_ESPINHARAS_SEXTA.csv' criado com sucesso!
+23/05/2025 17:00:55 - INFO - Email enviado para: eg4*********email.com
+23/05/2025 17:00:55 - INFO - Iniciando consulta
+23/05/2025 17:00:55 - SUCCESS - Consulta realizada com sucesso.
+23/05/2025 17:00:55 - SUCCESS - 'Regional_RIO DO PEIXE_SEXTA.csv' criado com sucesso!
+23/05/2025 17:00:59 - INFO - Email enviado para: eg5*********email.com
+23/05/2025 17:00:59 - INFO - Iniciando consulta
+23/05/2025 17:00:59 - SUCCESS - Consulta realizada com sucesso.
+23/05/2025 17:00:59 - INFO - cadastro_regional.py finalizado. 
+

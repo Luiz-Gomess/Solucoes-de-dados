@@ -1,0 +1,17 @@
+21/07/2025 12:00:02 - INFO - Iniciando atendimentos_sem_cadastro.py
+21/07/2025 12:00:02 - INFO - Conexão com o banco estabelecida.
+21/07/2025 12:00:02 - INFO - Iniciando consulta
+21/07/2025 12:01:28 - SUCCESS - Consulta realizada com sucesso.
+21/07/2025 12:01:28 - SUCCESS - 'atendimentos-geral.csv' criado com sucesso!
+21/07/2025 12:01:28 - SUCCESS - 'atendimentos-unidade-31501.csv' criado com sucesso!
+21/07/2025 12:01:28 - SUCCESS - 'atendimentos-unidade-31502.csv' criado com sucesso!
+21/07/2025 12:01:33 - INFO - Email enviado para: eg1*********email.com
+21/07/2025 12:01:37 - INFO - Email enviado para: eg2*********email.com
+21/07/2025 12:01:41 - INFO - Email enviado para: eg3*********email.com
+21/07/2025 12:01:45 - INFO - Email enviado para: eg4*********email.com
+21/07/2025 12:01:50 - INFO - Email enviado para: eg5*********email.com
+21/07/2025 12:01:54 - INFO - Email enviado para: eg6*********email.com
+21/07/2025 12:01:59 - INFO - Email enviado para: eg7*********email.com
+21/07/2025 12:02:03 - INFO - Email enviado para: eg8*********email.com
+21/07/2025 12:02:07 - INFO - Email enviado para: eg9*********email.com
+21/07/2025 12:02:07 - INFO - atendimentos_sem_cadastro.py finalizado. 

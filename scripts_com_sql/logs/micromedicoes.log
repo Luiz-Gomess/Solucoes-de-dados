@@ -1,0 +1,10 @@
+ 23/07/2025 07:30:02 - INFO - Iniciando micromedicoes.py
+23/07/2025 07:30:02 - INFO - Conexão com o banco estabelecida.
+23/07/2025 07:30:02 - INFO - Iniciando consulta
+23/07/2025 07:30:03 - SUCCESS - Consulta realizada com sucesso.
+23/07/2025 07:30:03 - SUCCESS - '07-Relatorio Diario de Mov. de Hidro - JULHO.2025.csv' criado com sucesso!
+23/07/2025 07:30:07 - INFO - Email enviado para: eg1*********email.com
+23/07/2025 07:30:11 - INFO - Email enviado para: eg2*********email.com
+23/07/2025 07:30:15 - INFO - Email enviado para: eg3*********email.com
+23/07/2025 07:30:15 - INFO - micromedicoes.py finalizado. 
+
